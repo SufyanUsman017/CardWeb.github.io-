@@ -1,0 +1,92 @@
+.main{
+    height: 100vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: auto;
+
+
+}
+.card{
+
+    width: 250px;
+    height: 350px;
+    border: 1px solid;
+   
+    border-radius: 10px;
+    background-color:rgb(163, 114, 48);
+    
+
+
+  
+}
+.sec1{
+height:45% ;
+background-image: url(https://images.pexels.com/photos/16672936/pexels-photo-16672936/free-photo-of-tourists-at-the-meiji-jingu-nino-torii.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load);
+background-repeat: no-repeat;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+background-size: 100% 100%;
+
+
+
+
+
+}
+.sec2{
+size: 10px;
+margin-left: 20px;
+color:seagreen;
+
+}
+.cardtag{
+font-size: 10px;
+
+}
+.bio{
+color: aqua;
+background-color: bisque;
+padding: 5px;
+font-size:15px;
+border-radius: 20px;
+}
+.active{
+width: 50px;
+height: 50px;
+border-radius: 100%;
+
+}
+
+.para{
+font-size: 10px;
+}
+.su{
+font-size: 10px;
+color: brown;
+}
+.pic{
+color: cadetblue;
+}
+.bd{
+background-color:teal;
+}
+.btn{
+text-align: center;
+padding: 60px;
+border-radius: 20px;
+
+}
+.btn2{
+padding: 15px;
+
+}
+.b1{
+background-color: aqua;
+border-radius: 20px;
+padding: 5px;
+}
+.b2{
+background-color: violet;
+border-radius: 20px;
+padding: 5px;
+}
